@@ -1,0 +1,58 @@
+.card{
+    
+    width: 490px;
+    height: 188px;
+    display: flex;
+    /* flex-direction: column; */
+    margin: 20px;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    border-radius: 9px;
+    
+}
+.card--star{
+    
+    height: 14px;
+    margin-right: 10px;
+}
+h1{
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+hr{
+    color:#F5F5F5;
+}
+
+
+.card-block{
+    margin: 10px;
+    
+}
+.card--image{
+    width: 115px;
+    height: 168px;
+    margin: 10px;
+    border-radius: 9px;
+    
+}
+.card-loc-bar{
+    display: block;
+    
+
+}
+.card--loc{
+    color: #918E9B;
+    font-size: 9pt;
+    float: right;
+}
+.card--country{
+    letter-spacing:1px;
+}
+
+.card--description{
+    font-size: 9pt;
+}
+.card--date{
+    font-size: 9pt;
+    font-weight: bold;
+}
